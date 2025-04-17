@@ -53,3 +53,80 @@ a:hover{
 .logo:hover{
     cursor: default;
 }
+.image{
+    width: 55rem;
+    height: 45rem;
+    
+
+}
+.image img{
+    width: 30rem;
+   margin-left: 18rem;
+   margin-top: 3rem;
+  
+}
+.main-menu{
+    display: flex;
+    
+}
+.info-i{
+    text-align: left;
+    margin-top: 2rem;
+    width: 43rem;
+    height: 45rem;
+}
+
+.info-i > *{
+    margin: 1rem;
+    margin-left: 1em;
+}
+h1{
+    font-weight: 900;
+    font-size: 3rem;
+}
+h4{
+    color: rgb(143, 137, 137);
+}
+button{
+    background-color: black;
+    color: white;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 4rem;
+}
+#button{
+    margin-left: 5.5rem;
+    width: 25rem;
+}
+#download-cv{
+    background-color: white;
+    color: black;
+    margin: 2rem;
+}
+#icon{ 
+    height: 5rem;
+    width: 15rem;
+    align-items: center;
+    margin-top: 0.1rem;
+    margin-left: 11.5rem;
+    margin-bottom: 2rem;
+}
+.icon-2{
+    width: 4.5rem;
+    margin: 1rem;
+}
+#download-cv:hover{
+    background-color: black;
+    color: white;
+  
+    
+    
+}
+#contact-info:hover{
+    background-color: rgb(52, 48, 48);
+
+}
+#less{
+    font-size: 2rem;
+    margin-left: 1rem;
+}
